@@ -11,3 +11,5 @@ As an aside, I discovered an inconsistency in the way Moonriver reported its pen
 I later confirmed this with a developer.
 
 ![Developer](https://i.gyazo.com/f264109539f07ff10ab78eafcec15ebd.png)
+
+<img src="https://i.gyazo.com/f264109539f07ff10ab78eafcec15ebd.png" alt="Developer" width="50%" height="50%">
