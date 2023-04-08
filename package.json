@@ -1,0 +1,17 @@
+{
+  "name": "sandwich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "bigint-isqrt": "^0.2.1",
+    "web3": "^1.7.1"
+  }
+}
