@@ -7,5 +7,6 @@ Whilst the bot doesn't have any of the crazy optimisations production bots have,
 
 Logic of particular interest is the formula for determining the maximum amount to buy with whilst respecting the targets slippage tolerance.  
 As an aside, I discovered an inconsistency in the way moonriver reported its pending transactions, hence the quirk in calculateGasPrice.  
-I later confirmed this with a developer.  
+I later confirmed this with a developer.
+
 ![Developer](https://i.gyazo.com/f264109539f07ff10ab78eafcec15ebd.png)
